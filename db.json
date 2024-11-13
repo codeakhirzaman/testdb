@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nama": "Produk1",
+        "harga": 10000
+    },
+    {
+        "id": 2,
+        "nama": "Produk2",
+        "harga": 15000
+    },
+    {
+        "id": 3,
+        "nama": "Produk3",
+        "harga": 20000
+    },
+    {
+        "id": 4,
+        "nama": "Produk4",
+        "harga": 25000
+    },
+    {
+        "id": 5,
+        "nama": "Produk5",
+        "harga": 30000
+    }
+]
